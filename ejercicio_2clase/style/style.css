@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: Yanone Kaffeesatz';
+    font-weight: 800;
+}
+.subtitulo{
+    color: aquamarine;
+    font-style: oblique;
+    padding: 10px;
+}
+p{
+    margin: 30px 20px;
+    border: 5px dotted black;
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
+    width: 100%;
+    margin: 20px;
+}
